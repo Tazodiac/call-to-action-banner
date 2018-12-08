@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
   font-family: "Roboto Condensed", sans-serif;
   line-height: 1.5;
 }
@@ -26,7 +26,7 @@ body {
 
 .text img {
   max-width: 40%;
-  padding: 0 3em;
+  padding: 0 2.5em 0 .5em;
 }
 
 .text {
@@ -46,14 +46,15 @@ body {
   font-size: 3rem;
   line-height: 1.1;
   margin: 0;
-  padding: 0 2em;
+  padding: 0 2em .5em 0;
 }
 
 .text div p {
+  font-family: Roboto;
   font-size: 1.5rem;
   line-height: 1.5;
   margin: 0;
-  padding: 0 2em;
+  padding: 0 1.5em .75em 0;
 }
 
 .btn {
@@ -61,7 +62,7 @@ body {
   text-decoration: none;
   color: #fff;
   font-size: 1.125rem;
-  padding: 0;
+  padding: .5em .75em;
   background-color: #333;
   border: 3px solid #333;
   border-radius: 8px;
