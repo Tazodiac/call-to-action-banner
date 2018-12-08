@@ -18,3 +18,13 @@ body{
   max-height: 500px;
   overflow: hidden;
 }
+
+.img-flex {
+  display: block;
+  width: 100%;
+}
+
+.text img {
+  max-width: 40%;
+  padding: 0 3em 0;
+}
