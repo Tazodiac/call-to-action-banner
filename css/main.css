@@ -1,6 +1,7 @@
 html{
   box-sizing: border-box;
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
   line-height: 1.5;
 }
 
@@ -10,4 +11,10 @@ html{
 
 body{
   margin: 0;
+}
+
+.banner {
+  position: relative;
+  max-height: 500px;
+  overflow: hidden;
 }
