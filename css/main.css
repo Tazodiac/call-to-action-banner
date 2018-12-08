@@ -1,15 +1,15 @@
-html{
+html {
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
-  font-family: 'Roboto Condensed', sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
   line-height: 1.5;
 }
 
-*, *::before, *::after  {
+*, *::before, *::after {
   box-sizing: inherit;
 }
 
-body{
+body {
   margin: 0;
 }
 
@@ -26,7 +26,7 @@ body{
 
 .text img {
   max-width: 40%;
-  padding: 0 3em 0;
+  padding: 0 3em;
 }
 
 .text {
@@ -46,14 +46,14 @@ body{
   font-size: 3rem;
   line-height: 1.1;
   margin: 0;
-  padding: 0 2em 0;
+  padding: 0 2em;
 }
 
 .text div p {
   font-size: 1.5rem;
   line-height: 1.5;
   margin: 0;
-  padding: 0 2em 0;
+  padding: 0 2em;
 }
 
 .btn {
