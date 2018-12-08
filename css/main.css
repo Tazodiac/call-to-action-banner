@@ -42,5 +42,35 @@ body{
 }
 
 .text div h2 {
+  font-family: "Roboto Condensed";
+  font-size: 3rem;
+  line-height: 1.1;
+  margin: 0;
+  padding: 0 2em 0;
+}
 
+.text div p {
+  font-size: 1.5rem;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0 2em 0;
+}
+
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.125rem;
+  padding: 0;
+  background-color: #333;
+  border: 3px solid #333;
+  border-radius: 8px;
+}
+
+.btn-big {
+  font-size: 1.5rem;
+}
+
+.btn:hover {
+  background-color: #000;
 }
